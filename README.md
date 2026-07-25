@@ -29,4 +29,9 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ridika13/DSA/tree/master/0009-palindrome-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/ridika13/DSA/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/ridika13/DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
