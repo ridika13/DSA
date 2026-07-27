@@ -31,10 +31,19 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ridika13/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/ridika13/DSA/tree/master/0070-climbing-stairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridika13/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/ridika13/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridika13/DSA/tree/master/3536-maximum-product-of-two-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ridika13/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ridika13/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
