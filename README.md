@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ridika13/DSA/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/ridika13/DSA/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ridika13/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ridika13/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ridika13/DSA/tree/master/0070-climbing-stairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridika13/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ridika13/DSA/tree/master/0101-symmetric-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ridika13/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
