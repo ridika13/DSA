@@ -15,6 +15,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridika13/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ridika13/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridika13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0877-stone-game](https://github.com/ridika13/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridika13/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/ridika13/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ridika13/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ridika13/DSA/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/ridika13/DSA/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridika13/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ridika13/DSA/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/ridika13/DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -77,4 +80,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ridika13/DSA/tree/master/0013-roman-to-integer) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ridika13/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
