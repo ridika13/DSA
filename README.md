@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ridika13/DSA/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridika13/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0877-stone-game](https://github.com/ridika13/DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |
@@ -70,6 +71,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridika13/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/ridika13/DSA/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
@@ -82,6 +84,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridika13/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/ridika13/DSA/tree/master/0101-symmetric-tree) |
 ## Hash Table
 |  |
@@ -127,4 +130,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridika13/DSA/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridika13/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridika13/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
