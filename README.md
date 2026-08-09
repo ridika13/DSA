@@ -18,6 +18,7 @@
 | [0016-3sum-closest](https://github.com/ridika13/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridika13/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ridika13/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ridika13/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/ridika13/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridika13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/ridika13/DSA/tree/master/0877-stone-game) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ridika13/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/ridika13/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridika13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
