@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ridika13/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ridika13/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ridika13/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ridika13/DSA/tree/master/0014-longest-common-prefix) |
@@ -98,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ridika13/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ridika13/DSA/tree/master/0013-roman-to-integer) |
 ## Game Theory
 |  |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ridika13/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ridika13/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
