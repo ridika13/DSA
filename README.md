@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ridika13/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ridika13/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ridika13/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ridika13/DSA/tree/master/0070-climbing-stairs) |
