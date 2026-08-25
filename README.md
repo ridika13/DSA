@@ -55,6 +55,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ridika13/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ridika13/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ridika13/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ridika13/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridika13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@
 | [0009-palindrome-number](https://github.com/ridika13/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ridika13/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ridika13/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ridika13/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ridika13/DSA/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/ridika13/DSA/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridika13/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ridika13/DSA/tree/master/0042-trapping-rain-water) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ridika13/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
