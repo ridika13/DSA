@@ -14,6 +14,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ridika13/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ridika13/DSA/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ridika13/DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ridika13/DSA/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ridika13/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ridika13/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ridika13/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ridika13/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ridika13/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ridika13/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
